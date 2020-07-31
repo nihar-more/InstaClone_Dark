@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="@color/black">
+
+    <ImageView
+        android:id="@+id/grid_images"
+        android:layout_width="137dp"
+        android:layout_height="134dp"
+        android:layout_marginBottom="1dp"
+        android:src="@drawable/profiledp" />
+
+    <ImageView
+        android:id="@+id/grid_images"
+        android:layout_width="137dp"
+        android:layout_height="134dp"
+        android:src="@drawable/newpic1"
+        android:layout_marginBottom="1dp"/>
+    <ImageView
+        android:id="@+id/grid_images"
+        android:layout_width="137dp"
+        android:layout_height="134dp"
+        android:src="@drawable/newpic2"
+        android:layout_marginBottom="1dp"/>
+
+
+</LinearLayout>
