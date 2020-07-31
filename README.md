@@ -5,6 +5,7 @@ Video Sample here: https://www.linkedin.com/posts/niharmore_androiddevelopment-a
 Final built Apk v1.0 can be found here: https://github.com/nihar-more/InstaClone_Dark/blob/master/Final%20Build/Insta_Dark.apk
 
 NOTE - Application work is still in progress its not a complete build few additions like database, tabs and features are pending.
+
 Some Sample Screenshots-
 
 ![](images/pic5.jpeg)
